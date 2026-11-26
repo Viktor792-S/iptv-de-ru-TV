@@ -847,8 +847,6 @@ http://stream.mcquack.net/72/index.m3u8
 https://fs.uplink.kz/qazsport_hd/index.m3u8?token=onlinetv
 #EXTINF:-1 group-title="RU • 10 Региональные", Солнечный | Узбекистан
 https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/index.m3u8
-#EXTINF:-1 group-title="RU • 10 Региональные", Аист | Орехово-Зуево
-http://141.101.205.134:8080/hls/tvaist.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Кварц | Подольск
 http://109.94.1.3/25/index.m3u8
 #EXTINF:-1 group-title="RU • 11 Здоровье и фитнес", Доктор (2)
