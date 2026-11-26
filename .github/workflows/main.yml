@@ -48,41 +48,9 @@ jobs:
           if block:
               sender.append(block)
 
-          # Zusaetzliche Sender einlesen
-          extra = Path("Neue_Sender.m3u")
+          if not sender:
+              raise RuntimeError("Keine Sender gefunden")
 
-          if extra.exists():
-              block = []
-              for line in extra.read_text(encoding="utf-8-sig").splitlines():
-                  if line.startswith("#EXTINF:"):
-                      if block:
-                          sender.append(block)
-                      block = [line]
-                  elif block:
-                      block.append(line)
-
-              if block:
-                  sender.append(block)
-
-          # Doppelte Stream-Adressen entfernen
-          vorher = len(sender)
-          gesehen = set()
-          eindeutig = []
-
-          for item in sender:
-              urls = tuple(
-                  x.strip() for x in item
-                  if x.strip().startswith(("http://", "https://"))
-              )
-
-              if urls and urls not in gesehen:
-                  gesehen.add(urls)
-                  eindeutig.append(item)
-
-          sender = eindeutig
-          entfernt = vorher - len(sender)
-
-          # Sender auf Erreichbarkeit pruefen
           def check(item):
               urls = [
                   x.strip() for x in item
@@ -99,12 +67,9 @@ jobs:
 
                           with urllib.request.urlopen(req, timeout=10) as r:
                               data = r.read(4096)
+                              lower = data.lower()
 
-                              if (
-                                  data
-                                  and b"<html" not in data.lower()
-                                  and b"<!doctype html" not in data.lower()
-                              ):
+                              if data and b"<html" not in lower and b"<!doctype html" not in lower:
                                   return True, item
 
                       except Exception:
@@ -121,7 +86,6 @@ jobs:
           good = [item for ok, item in results if ok]
           bad = [item for ok, item in results if not ok]
 
-          # Playlisten speichern
           def save(filename, items):
               content = header.copy()
 
@@ -133,29 +97,40 @@ jobs:
                   encoding="utf-8"
               )
 
-          save("Deutsch_Russisch_IBO_Nachpruefung.m3u", bad)
+          # Alle Sender fuer IBO behalten
+          save(
+              "Deutsch_Russisch_IBO_geprueft.m3u",
+              sender
+          )
 
-          # Bestehende Playlist bei Totalausfall behalten
-          if good:
-              save("Deutsch_Russisch_IBO_geprueft.m3u", good)
-          else:
-              print("Warnung: Alte Playlist bleibt erhalten.")
+          # Erreichbare Sender separat speichern
+          save(
+              "Deutsch_Russisch_IBO_erreichbar.m3u",
+              good
+          )
 
-          # Pruefbericht erstellen
+          # Nicht erreichbare Sender separat speichern
+          save(
+              "Deutsch_Russisch_IBO_Nachpruefung.m3u",
+              bad
+          )
+
           with open("Pruefbericht.txt", "w", encoding="utf-8") as f:
               f.write(f"Geprueft: {len(results)}\n")
               f.write(f"Erreichbar: {len(good)}\n")
               f.write(f"Nicht erreichbar: {len(bad)}\n")
-              f.write(f"Doppelte oder ungueltige Eintraege entfernt: {entfernt}\n\n")
+              f.write(f"Sender in IBO Playlist: {len(sender)}\n")
+              f.write("Automatisch entfernte Sender: 0\n\n")
 
               for ok, item in results:
-                  status = "ERREICHBAR" if ok else "NICHT ERREICHBAR"
+                  status = "ERREICHBAR" if ok else "NACHPRUEFUNG"
                   f.write(f"{status}: {item[0]}\n")
 
           print(f"Geprueft: {len(results)}")
           print(f"Erreichbar: {len(good)}")
-          print(f"Nicht erreichbar: {len(bad)}")
-          print(f"Entfernte Eintraege: {entfernt}")
+          print(f"Nachpruefung: {len(bad)}")
+          print(f"IBO Playlist: {len(sender)}")
+          print("Keine Sender entfernt")
           PY
 
       - name: Pruefbericht speichern
@@ -168,7 +143,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Deutsch_Russisch_IBO_*.m3u
+
+          git add Deutsch_Russisch_IBO_geprueft.m3u
+          git add Deutsch_Russisch_IBO_erreichbar.m3u
+          git add Deutsch_Russisch_IBO_Nachpruefung.m3u
           git add Pruefbericht.txt
 
           if ! git diff --cached --quiet; then
