@@ -30,6 +30,7 @@ jobs:
 
           source = Path("Deutsch_Russisch_IBO_optimiert.m3u")
           lines = source.read_text(encoding="utf-8-sig").splitlines()
+
           header = []
           sender = []
           block = []
@@ -47,11 +48,47 @@ jobs:
           if block:
               sender.append(block)
 
+          # Zusaetzliche Sender einlesen
+          extra = Path("Neue_Sender.m3u")
+
+          if extra.exists():
+              block = []
+              for line in extra.read_text(encoding="utf-8-sig").splitlines():
+                  if line.startswith("#EXTINF:"):
+                      if block:
+                          sender.append(block)
+                      block = [line]
+                  elif block:
+                      block.append(line)
+
+              if block:
+                  sender.append(block)
+
+          # Doppelte Stream-Adressen entfernen
+          vorher = len(sender)
+          gesehen = set()
+          eindeutig = []
+
+          for item in sender:
+              urls = tuple(
+                  x.strip() for x in item
+                  if x.strip().startswith(("http://", "https://"))
+              )
+
+              if urls and urls not in gesehen:
+                  gesehen.add(urls)
+                  eindeutig.append(item)
+
+          sender = eindeutig
+          entfernt = vorher - len(sender)
+
+          # Sender auf Erreichbarkeit pruefen
           def check(item):
               urls = [
                   x.strip() for x in item
                   if x.strip().startswith(("http://", "https://"))
               ]
+
               for url in urls:
                   for attempt in range(3):
                       try:
@@ -59,14 +96,23 @@ jobs:
                               url,
                               headers={"User-Agent": "VLC/3.0"}
                           )
+
                           with urllib.request.urlopen(req, timeout=10) as r:
                               data = r.read(4096)
-                              if data and b"<html" not in data.lower() and b"<!doctype html" not in data.lower():
+
+                              if (
+                                  data
+                                  and b"<html" not in data.lower()
+                                  and b"<!doctype html" not in data.lower()
+                              ):
                                   return True, item
+
                       except Exception:
                           pass
+
                       if attempt < 2:
                           time.sleep(2)
+
               return False, item
 
           with ThreadPoolExecutor(max_workers=10) as pool:
@@ -75,10 +121,13 @@ jobs:
           good = [item for ok, item in results if ok]
           bad = [item for ok, item in results if not ok]
 
+          # Playlisten speichern
           def save(filename, items):
               content = header.copy()
+
               for item in items:
                   content.extend(item)
+
               Path(filename).write_text(
                   "\n".join(content) + "\n",
                   encoding="utf-8"
@@ -86,19 +135,27 @@ jobs:
 
           save("Deutsch_Russisch_IBO_Nachpruefung.m3u", bad)
 
+          # Bestehende Playlist bei Totalausfall behalten
           if good:
               save("Deutsch_Russisch_IBO_geprueft.m3u", good)
+          else:
+              print("Warnung: Alte Playlist bleibt erhalten.")
 
+          # Pruefbericht erstellen
           with open("Pruefbericht.txt", "w", encoding="utf-8") as f:
               f.write(f"Geprueft: {len(results)}\n")
               f.write(f"Erreichbar: {len(good)}\n")
-              f.write(f"Nicht erreichbar: {len(bad)}\n\n")
+              f.write(f"Nicht erreichbar: {len(bad)}\n")
+              f.write(f"Doppelte oder ungueltige Eintraege entfernt: {entfernt}\n\n")
+
               for ok, item in results:
                   status = "ERREICHBAR" if ok else "NICHT ERREICHBAR"
                   f.write(f"{status}: {item[0]}\n")
 
+          print(f"Geprueft: {len(results)}")
           print(f"Erreichbar: {len(good)}")
           print(f"Nicht erreichbar: {len(bad)}")
+          print(f"Entfernte Eintraege: {entfernt}")
           PY
 
       - name: Pruefbericht speichern
@@ -113,6 +170,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add Deutsch_Russisch_IBO_*.m3u
           git add Pruefbericht.txt
+
           if ! git diff --cached --quiet; then
             git commit -m "Automatische IPTV Aktualisierung"
             git push
