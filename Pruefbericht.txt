@@ -1,6 +1,7 @@
 Geprueft: 1703
-Erreichbar: 1166
-Nicht erreichbar: 537
+Erreichbar: 1169
+Nicht erreichbar: 534
+Doppelte oder ungueltige Eintraege entfernt: 0
 
 ERREICHBAR: #EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png" group-title="DE • 01 Hauptsender",Das Erste
 NICHT ERREICHBAR: #EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="DE • 01 Hauptsender",ZDF
@@ -762,7 +763,7 @@ ERREICHBAR: #EXTINF:-1 group-title="RU • 03 Фильмы", 365 дней (2)
 ERREICHBAR: #EXTINF:-1 tvg-id="5minuttishiny.ru" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/5minut_live.jpg" group-title="RU • 04 Сериалы",5 minut tishiny
 NICHT ERREICHBAR: #EXTINF:-1 tvg-id="A2.ru" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="RU • 04 Сериалы",A2
 ERREICHBAR: #EXTINF:-1 tvg-id="Balabol.ru" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="RU • 04 Сериалы",Balabol
-NICHT ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenTeleNovella.ru" tvg-logo="https://i.imgur.com/mT5liTh.png" group-title="RU • 04 Сериалы",City Eden TeleNovella
+ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenTeleNovella.ru" tvg-logo="https://i.imgur.com/mT5liTh.png" group-title="RU • 04 Сериалы",City Eden TeleNovella
 NICHT ERREICHBAR: #EXTINF:-1 tvg-id="MirSeriala.ru" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="RU • 04 Сериалы",Mir Seriala
 ERREICHBAR: #EXTINF:-1 tvg-id="Nevskiy.ru" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" group-title="RU • 04 Сериалы",Nevskiy
 NICHT ERREICHBAR: #EXTINF:-1 tvg-id="NTVSeries.ru" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="RU • 04 Сериалы",NTV Series
@@ -1029,7 +1030,7 @@ ERREICHBAR: #EXTINF:-1 group-title="RU • 09 Документальные", RT�
 ERREICHBAR: #EXTINF:-0 group-title="RU • 09 Документальные", Следствие вели...
 ERREICHBAR: #EXTINF:-1 group-title="RU • 09 Документальные", Неизвестная Россия
 ERREICHBAR: #EXTINF:-1 group-title="RU • 09 Документальные", Неизвестная Россия (2)
-NICHT ERREICHBAR: #EXTINF:-1 group-title="RU • 09 Документальные", Конгресс
+ERREICHBAR: #EXTINF:-1 group-title="RU • 09 Документальные", Конгресс
 ERREICHBAR: #EXTINF:-1 group-title="RU • 09 Документальные", Конгресс (2)
 ERREICHBAR: #EXTINF:-1 group-title="RU • 09 Документальные", Аква
 ERREICHBAR: #EXTINF:-1 group-title="RU • 09 Документальные", ПРНК
@@ -1400,7 +1401,7 @@ NICHT ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Q
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Грозный | Чеченская республика
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", ОшТВ | Кыргызстан
 NICHT ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Солнечный | Узбекистан
-ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Аист | Орехово-Зуево
+NICHT ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Аист | Орехово-Зуево
 NICHT ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Кварц | Подольск
 ERREICHBAR: #EXTINF:-1 group-title="RU • 11 Авто", Авто Плюс
 ERREICHBAR: #EXTINF:-1 group-title="RU • 11 Авто", Авто 24
@@ -1657,7 +1658,7 @@ NICHT ERREICHBAR: #EXTINF:-1 tvg-id="StudiyaFakt.ru" tvg-logo="https://i.imgur.c
 NICHT ERREICHBAR: #EXTINF:-1 tvg-id="Subbota.ru" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="RU • 12 Другие",Subbota! (HD)
 ERREICHBAR: #EXTINF:-1 tvg-id="Subbota.ru" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="RU • 12 Другие",Subbota! (SD)
 ERREICHBAR: #EXTINF:-1 tvg-id="Surgut24.ru" tvg-logo="https://i.imgur.com/OxvqXMt.png" group-title="RU • 12 Другие",Surgut 24
-NICHT ERREICHBAR: #EXTINF:-1 tvg-id="SvoyoTV.ru" tvg-logo="https://i.imgur.com/3cP2fmX.png" group-title="RU • 12 Другие",Svoyo TV
+ERREICHBAR: #EXTINF:-1 tvg-id="SvoyoTV.ru" tvg-logo="https://i.imgur.com/3cP2fmX.png" group-title="RU • 12 Другие",Svoyo TV
 ERREICHBAR: #EXTINF:-1 tvg-id="T24.ru" tvg-logo="https://i.imgur.com/1W6R14o.png" group-title="RU • 12 Другие",T24
 ERREICHBAR: #EXTINF:-1 tvg-id="TBNBaltia.ee" tvg-logo="https://i.imgur.com/rKBaK56.png" group-title="RU • 12 Другие",TBN Baltia
 NICHT ERREICHBAR: #EXTINF:-1 tvg-id="Teatr.ru" tvg-logo="https://i.imgur.com/nc2ijCH.png" group-title="RU • 12 Другие",Teatr
@@ -1667,7 +1668,7 @@ NICHT ERREICHBAR: #EXTINF:-1 tvg-id="Teleputeshestviya.ru" tvg-logo="https://i.i
 ERREICHBAR: #EXTINF:-1 tvg-id="Telplus.ru" tvg-logo="https://i.imgur.com/1zbcZ3p.png" group-title="RU • 12 Другие",Telplus
 ERREICHBAR: #EXTINF:-1 tvg-id="TKR.ru" tvg-logo="https://i.imgur.com/VqtPB7L.png" group-title="RU • 12 Другие",TKR
 NICHT ERREICHBAR: #EXTINF:-1 tvg-id="TMB.tr" tvg-logo="https://i.imgur.com/28AyWHe.png" group-title="RU • 12 Другие",TMB
-NICHT ERREICHBAR: #EXTINF:-1 tvg-id="TNVPlanet.ru" tvg-logo="https://i.imgur.com/ijA1zDw.png" group-title="RU • 12 Другие",TNV-Planet
+ERREICHBAR: #EXTINF:-1 tvg-id="TNVPlanet.ru" tvg-logo="https://i.imgur.com/ijA1zDw.png" group-title="RU • 12 Другие",TNV-Planet
 ERREICHBAR: #EXTINF:-1 tvg-id="TNVTatarstan.ru" tvg-logo="https://i.imgur.com/58u9TQT.png" group-title="RU • 12 Другие",TNV-Tatarstan
 NICHT ERREICHBAR: #EXTINF:-1 tvg-id="TochkaTV.ru" tvg-logo="https://i.imgur.com/yyNR5jG.png" group-title="RU • 12 Другие",Tochka TV
 NICHT ERREICHBAR: #EXTINF:-1 tvg-id="Tonus.ru" tvg-logo="https://i.imgur.com/pGm8QCj.png" group-title="RU • 12 Другие",Tonus

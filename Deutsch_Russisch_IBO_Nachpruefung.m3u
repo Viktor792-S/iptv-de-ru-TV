@@ -563,8 +563,6 @@ http://stream.mcquack.net/101/index.m3u8
 http://178.124.179.122/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="A2.ru" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="RU • 04 Сериалы",A2
 http://31.148.48.15/A2/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenTeleNovella.ru" tvg-logo="https://i.imgur.com/mT5liTh.png" group-title="RU • 04 Сериалы",City Eden TeleNovella
-https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="RU • 04 Сериалы",Mir Seriala
 http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="RU • 04 Сериалы",NTV Series
@@ -797,8 +795,6 @@ http://stream.mcquack.net/177/index.m3u8
 http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="RU • 09 Документальные", RTД (2)
 https://cdn-01.bonus-tv.ru/rtdoc/index.m3u8
-#EXTINF:-1 group-title="RU • 09 Документальные", Конгресс
-http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="RU • 09 Документальные", Усадьба (2)
 http://stream.mcquack.net/211/index.m3u8
 #EXTINF:-1 group-title="RU • 09 Документальные", Наука (2)
@@ -851,6 +847,8 @@ http://stream.mcquack.net/72/index.m3u8
 https://fs.uplink.kz/qazsport_hd/index.m3u8?token=onlinetv
 #EXTINF:-1 group-title="RU • 10 Региональные", Солнечный | Узбекистан
 https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/index.m3u8
+#EXTINF:-1 group-title="RU • 10 Региональные", Аист | Орехово-Зуево
+http://141.101.205.134:8080/hls/tvaist.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Кварц | Подольск
 http://109.94.1.3/25/index.m3u8
 #EXTINF:-1 group-title="RU • 11 Здоровье и фитнес", Доктор (2)
@@ -1031,16 +1029,12 @@ https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
 https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Subbota.ru" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="RU • 12 Другие",Subbota! (HD)
 http://stream.mcquack.net/269/index.m3u8
-#EXTINF:-1 tvg-id="SvoyoTV.ru" tvg-logo="https://i.imgur.com/3cP2fmX.png" group-title="RU • 12 Другие",Svoyo TV
-https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teatr.ru" tvg-logo="https://i.imgur.com/nc2ijCH.png" group-title="RU • 12 Другие",Teatr
 http://hls127.freeott.top:8080/Teatr/video.m3u8
 #EXTINF:-1 tvg-id="Teleputeshestviya.ru" tvg-logo="https://i.imgur.com/eXJm1n3.png" group-title="RU • 12 Другие",Teleputeshestviya
 http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 tvg-id="TMB.tr" tvg-logo="https://i.imgur.com/28AyWHe.png" group-title="RU • 12 Другие",TMB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
-#EXTINF:-1 tvg-id="TNVPlanet.ru" tvg-logo="https://i.imgur.com/ijA1zDw.png" group-title="RU • 12 Другие",TNV-Planet
-https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 #EXTINF:-1 tvg-id="TochkaTV.ru" tvg-logo="https://i.imgur.com/yyNR5jG.png" group-title="RU • 12 Другие",Tochka TV
 http://31.148.48.15/Tochka_TV/index.m3u8
 #EXTINF:-1 tvg-id="Tonus.ru" tvg-logo="https://i.imgur.com/pGm8QCj.png" group-title="RU • 12 Другие",Tonus
