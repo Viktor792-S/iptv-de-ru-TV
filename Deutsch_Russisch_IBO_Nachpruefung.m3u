@@ -215,8 +215,6 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
 #EXTINF:-1 tvg-id="TideTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png" group-title="DE • 12 Sonstige",Tide TV
 https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TirolTV.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/960px-TIROL_TV_Logo_2019.png" group-title="DE • 12 Sonstige",Tirol TV
-https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 #EXTINF:-1 tvg-id="Unserding.de" tvg-logo="https://i.imgur.com/4j4MZTT.png" group-title="DE • 12 Sonstige",Unserding
 https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
 #EXTINF:-1 tvg-id="UpperaBalkan.at" tvg-logo="https://i.imgur.com/eqcmi5G.png" group-title="DE • 12 Sonstige",Uppera Balkan
@@ -821,14 +819,16 @@ https://ngtrk.dc.beltelecom.by/vtv/vitebsk.stream/index.m3u8
 https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/index.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", ТВ-3 | Беларусь
 http://radio.tvs.by/TB-3/index.m3u8
-#EXTINF:-1 group-title="RU • 10 Региональные", 12 канал (3) | Омск
-https://gtrkomsk-live.cdnvideo.ru/gtrkomsk/gtrkomsk.smil/playlist.m3u8
+#EXTINF:-1 group-title="RU • 10 Региональные", Нижний новгород 24 | Нижний Новгород
+https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Дон 24 (2) | Ростов-на-Дону
 https://donmedia.bonus-tv.ru/cdn/donmedia/index.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Липецкое время 24 | Липецкая область
 https://serv25.vintera.tv/liptime/liptime/playlist.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Новый век (2) | Тамбов
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+#EXTINF:-1 group-title="RU • 10 Региональные", Первый Псковский | Псковская область
+https://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Городской телеканал (2) | Ярославская область
 https://gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Санкт-Петербург (2)
@@ -839,14 +839,20 @@ https://edge-ekat1.teletarget.ru/stream/msk/tvspb/index.m3u8
 https://megapolis.iptv2022.com/index.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Томское время (2) | Томская область
 https://old.tomsk-time.ru/hls/playlist.m3u8
+#EXTINF:-1 group-title="RU • 10 Региональные", ЮТВ (2) | Чувашия
+https://utv.iptv2022.com/index.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", КТК | Казахстан
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="RU • 10 Региональные", Новое | Казахстан
+https://serv25.vintera.tv/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", QazSport | Казахстан
 http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", QazSport (2) | Казахстан
 https://fs.uplink.kz/qazsport_hd/index.m3u8?token=onlinetv
 #EXTINF:-1 group-title="RU • 10 Региональные", Солнечный | Узбекистан
 https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/index.m3u8
+#EXTINF:-1 group-title="RU • 10 Региональные", Аист | Орехово-Зуево
+http://141.101.205.134:8080/hls/tvaist.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Кварц | Подольск
 http://109.94.1.3/25/index.m3u8
 #EXTINF:-1 group-title="RU • 11 Здоровье и фитнес", Доктор (2)

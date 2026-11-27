@@ -447,6 +447,8 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
 #EXTINF:-1 tvg-id="teltOwkanal.de" tvg-logo="https://i.imgur.com/G0cImlU.png" group-title="DE • 12 Sonstige",teltOwkanal
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
+#EXTINF:-1 tvg-id="TirolTV.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/960px-TIROL_TV_Logo_2019.png" group-title="DE • 12 Sonstige",Tirol TV
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 #EXTINF:-1 tvg-id="TV1Oberosterreich.at" tvg-logo="https://i.imgur.com/KbMkEIn.png" group-title="DE • 12 Sonstige",TV 1 Oberosterreich
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
 #EXTINF:-1 tvg-id="TVIngolstadt.de" tvg-logo="https://i.imgur.com/Ymh11VV.png" group-title="DE • 12 Sonstige",TV Ingolstadt
@@ -1451,6 +1453,8 @@ http://rmhkuzbass.ru:8082/10kanal/10kanal_720/playlist.m3u8
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", 12 канал (2) | Омск
 https://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
+#EXTINF:-1 group-title="RU • 10 Региональные", 12 канал (3) | Омск
+https://gtrkomsk-live.cdnvideo.ru/gtrkomsk/gtrkomsk.smil/playlist.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Обком | Омск
 https://www.omsk-kprf.ru/hls/stream.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Омск ТВ | Омск
@@ -1595,8 +1599,6 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Волга 24 (2) | Нижний Новгород
 http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
-#EXTINF:-1 group-title="RU • 10 Региональные", Нижний новгород 24 | Нижний Новгород
-https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Волгоград 1 | Волгоградская область
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Волгоград 24 | Волгоградская область
@@ -1767,8 +1769,6 @@ http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Первый Тульский (2) | Тульская область
 http://5.164.24.83/tula/1tv_hi/index.m3u8
-#EXTINF:-1 group-title="RU • 10 Региональные", Первый Псковский | Псковская область
-https://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", ЯПервый | Ярославская область
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Городской телеканал | Ярославская область
@@ -1913,8 +1913,6 @@ https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", ЮТВ | Чувашия
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
-#EXTINF:-1 group-title="RU • 10 Региональные", ЮТВ (2) | Чувашия
-https://utv.iptv2022.com/index.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Чаваш ЕН | Чувашия
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Юрган | Коми
@@ -1939,16 +1937,12 @@ https://stream8.cinerama.uz/1431/index.m3u8
 https://stream8.cinerama.uz/1488/index.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Хабар 24 | Казахстан
 https://stream8.cinerama.uz/1408/index.m3u8
-#EXTINF:-1 group-title="RU • 10 Региональные", Новое | Казахстан
-https://serv25.vintera.tv/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Рика | Казахстан
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", Грозный | Чеченская республика
 https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 group-title="RU • 10 Региональные", ОшТВ | Кыргызстан
 http://212.42.117.34:8080/hls/OshTV.m3u8
-#EXTINF:-1 group-title="RU • 10 Региональные", Аист | Орехово-Зуево
-http://141.101.205.134:8080/hls/tvaist.m3u8
 #EXTINF:-1 group-title="RU • 11 Авто", Авто Плюс
 https://stream8.cinerama.uz/1036/index.m3u8
 #EXTINF:-1 group-title="RU • 11 Авто", Авто 24

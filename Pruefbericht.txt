@@ -1,6 +1,6 @@
 Geprueft: 1703
-Erreichbar: 1170
-Nicht erreichbar: 533
+Erreichbar: 1167
+Nicht erreichbar: 536
 Sender in IBO Playlist: 1703
 Automatisch entfernte Sender: 0
 
@@ -336,7 +336,7 @@ NACHPRUEFUNG: #EXTINF:-1 tvg-id="TeleM1.ch" tvg-logo="https://i.imgur.com/oFiixz
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="TeleZuri.ch" tvg-logo="https://i.imgur.com/f8kzNT1.png" group-title="DE • 12 Sonstige",TeleZuri
 ERREICHBAR: #EXTINF:-1 tvg-id="teltOwkanal.de" tvg-logo="https://i.imgur.com/G0cImlU.png" group-title="DE • 12 Sonstige",teltOwkanal
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="TideTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png" group-title="DE • 12 Sonstige",Tide TV
-NACHPRUEFUNG: #EXTINF:-1 tvg-id="TirolTV.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/960px-TIROL_TV_Logo_2019.png" group-title="DE • 12 Sonstige",Tirol TV
+ERREICHBAR: #EXTINF:-1 tvg-id="TirolTV.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/960px-TIROL_TV_Logo_2019.png" group-title="DE • 12 Sonstige",Tirol TV
 ERREICHBAR: #EXTINF:-1 tvg-id="TV1Oberosterreich.at" tvg-logo="https://i.imgur.com/KbMkEIn.png" group-title="DE • 12 Sonstige",TV 1 Oberosterreich
 ERREICHBAR: #EXTINF:-1 tvg-id="TVIngolstadt.de" tvg-logo="https://i.imgur.com/Ymh11VV.png" group-title="DE • 12 Sonstige",TV Ingolstadt
 ERREICHBAR: #EXTINF:-1 tvg-id="TVMainfranken.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png" group-title="DE • 12 Sonstige",TV Mainfranken
@@ -1141,7 +1141,7 @@ ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", 10 ка
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", 10 канал (2) | Новокузнецк
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", 12 канал | Омск
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", 12 канал (2) | Омск
-NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", 12 канал (3) | Омск
+ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", 12 канал (3) | Омск
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Обком | Омск
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Омск ТВ | Омск
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Омск ТВ (2) | Омск
@@ -1214,7 +1214,7 @@ ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Риф�
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Волга | Нижний Новгород
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Волга 24 | Нижний Новгород
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Волга 24 (2) | Нижний Новгород
-ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Нижний новгород 24 | Нижний Новгород
+NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", Нижний новгород 24 | Нижний Новгород
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Волгоград 1 | Волгоградская область
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Волгоград 24 | Волгоградская область
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Первый Волгоградский | Волгоградская область
@@ -1303,7 +1303,7 @@ ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Тве�
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Тверской проспект (2) | Тверская область
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Первый Тульский | Тульская область
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Первый Тульский (2) | Тульская область
-ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Первый Псковский | Псковская область
+NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", Первый Псковский | Псковская область
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", ЯПервый | Ярославская область
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Городской телеканал | Ярославская область
 NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", Городской телеканал (2) | Ярославская область
@@ -1381,7 +1381,7 @@ ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", ТНВ 
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Татарстан 24
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", TMTV | Татарстан
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", ЮТВ | Чувашия
-ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", ЮТВ (2) | Чувашия
+NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", ЮТВ (2) | Чувашия
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Чаваш ЕН | Чувашия
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Юрган | Коми
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Ямал 1 | Ямало-Ненецкий АО
@@ -1395,14 +1395,14 @@ ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Qazaqst
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Qazaqstan (2) | Казахстан
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", JTV | Казахстан
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Хабар 24 | Казахстан
-ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Новое | Казахстан
+NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", Новое | Казахстан
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Рика | Казахстан
 NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", QazSport | Казахстан
 NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", QazSport (2) | Казахстан
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Грозный | Чеченская республика
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", ОшТВ | Кыргызстан
 NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", Солнечный | Узбекистан
-ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Аист | Орехово-Зуево
+NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", Аист | Орехово-Зуево
 NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", Кварц | Подольск
 ERREICHBAR: #EXTINF:-1 group-title="RU • 11 Авто", Авто Плюс
 ERREICHBAR: #EXTINF:-1 group-title="RU • 11 Авто", Авто 24
