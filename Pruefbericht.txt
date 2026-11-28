@@ -1,6 +1,6 @@
 Geprueft: 1703
-Erreichbar: 1167
-Nicht erreichbar: 536
+Erreichbar: 1132
+Nicht erreichbar: 571
 Sender in IBO Playlist: 1703
 Automatisch entfernte Sender: 0
 
@@ -24,7 +24,7 @@ ERREICHBAR: #EXTINF:-1 tvg-id="AugsburgTV.de" tvg-logo="https://i.imgur.com/27AK
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="BadenTV.de" tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE • 01 Hauptsender",Baden TV
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="BadenTVSud.de" tvg-logo="https://badentvsued.s3.welocal.cloud/sources/60631840dfa86.png" group-title="DE • 01 Hauptsender",Baden TV Sud
 ERREICHBAR: #EXTINF:-1 tvg-id="emsTVLingen.de" tvg-logo="https://i.imgur.com/Yo1GMku.png" group-title="DE • 01 Hauptsender",ems TV Lingen
-ERREICHBAR: #EXTINF:-1 tvg-id="ErzTVStollberg.de" tvg-logo="https://i.imgur.com/6FHl9B1.png" group-title="DE • 01 Hauptsender",Erz-TV Stollberg
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="ErzTVStollberg.de" tvg-logo="https://i.imgur.com/6FHl9B1.png" group-title="DE • 01 Hauptsender",Erz-TV Stollberg
 ERREICHBAR: #EXTINF:-1 tvg-id="Filstalwelle.de" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="DE • 01 Hauptsender",Filstalwelle
 ERREICHBAR: #EXTINF:-1 tvg-id="FrankenFernsehen.de" tvg-logo="https://i.imgur.com/3pGGLLD.png" group-title="DE • 01 Hauptsender",Franken Fernsehen
 ERREICHBAR: #EXTINF:-1 tvg-id="FS1Salzburg.at" tvg-logo="https://i.imgur.com/74gMaPK.png" group-title="DE • 01 Hauptsender",FS1 Salzburg
@@ -34,7 +34,7 @@ NACHPRUEFUNG: #EXTINF:-1 tvg-id="Kanal9.ch" tvg-logo="https://i.imgur.com/TNciMh
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="Kanal12SprembergTV.de" tvg-logo="https://i.ibb.co/1LzJz7Y/Channels4-profile-7.jpg" group-title="DE • 01 Hauptsender",Kanal12 Spremberg TV
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="LTV.de" tvg-logo="https://i.imgur.com/HuGaMJj.png" group-title="DE • 01 Hauptsender",L TV
 ERREICHBAR: #EXTINF:-1 tvg-id="LandleTV.at" tvg-logo="https://i.imgur.com/omLVQ4r.png" group-title="DE • 01 Hauptsender",Landle TV
-ERREICHBAR: #EXTINF:-1 tvg-id="MDF1.de" tvg-logo="https://i.imgur.com/IFGXK6u.png" group-title="DE • 01 Hauptsender",MDF.1
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="MDF1.de" tvg-logo="https://i.imgur.com/IFGXK6u.png" group-title="DE • 01 Hauptsender",MDF.1
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="MDRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/960px-MDR_Logo_2017.svg.png" group-title="DE • 01 Hauptsender",MDR Fernsehen (Sachsen Anhalt)
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="MDRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/960px-MDR_Logo_2017.svg.png" group-title="DE • 01 Hauptsender",MDR Fernsehen (Sachsen)
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="MDRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/960px-MDR_Logo_2017.svg.png" group-title="DE • 01 Hauptsender",MDR Fernsehen (Thuringen)
@@ -52,16 +52,16 @@ ERREICHBAR: #EXTINF:-1 tvg-id="noa4Hamburg.de" tvg-logo="https://i.imgur.com/7A2
 ERREICHBAR: #EXTINF:-1 tvg-id="noa4Norderstedt.de" tvg-logo="https://i.imgur.com/941nrGb.png" group-title="DE • 01 Hauptsender",noa4 Norderstedt
 ERREICHBAR: #EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-logo="https://i.imgur.com/ISI5KDd.png" group-title="DE • 01 Hauptsender",Oberpfalz TV
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="OFTVOffenbach.de" tvg-logo="https://i.imgur.com/WAcxCJr.png" group-title="DE • 01 Hauptsender",OF-TV Offenbach
-ERREICHBAR: #EXTINF:-1 tvg-id="OKDessau.de" tvg-logo="https://i.imgur.com/nx4Wc8l.png" group-title="DE • 01 Hauptsender",OK Dessau
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="OKDessau.de" tvg-logo="https://i.imgur.com/nx4Wc8l.png" group-title="DE • 01 Hauptsender",OK Dessau
 ERREICHBAR: #EXTINF:-1 tvg-id="OKFlensburg.de" tvg-logo="https://i.imgur.com/NPbfgQC.png" group-title="DE • 01 Hauptsender",OK Flensburg
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="OKKaiserslautern.de" tvg-logo="https://i.imgur.com/MRrETTh.png" group-title="DE • 01 Hauptsender",OK Kaiserslautern
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="OKKassel.de" tvg-logo="https://i.imgur.com/igZ9sx2.png" group-title="DE • 01 Hauptsender",OK Kassel
 ERREICHBAR: #EXTINF:-1 tvg-id="OKKiel.de" tvg-logo="https://i.imgur.com/eToHabX.png" group-title="DE • 01 Hauptsender",OK Kiel
-ERREICHBAR: #EXTINF:-1 tvg-id="OKMagdeburg.de" tvg-logo="https://i.imgur.com/zftoymR.png" group-title="DE • 01 Hauptsender",OK Magdeburg
-ERREICHBAR: #EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de" tvg-logo="https://i.imgur.com/QfzdESc.png" group-title="DE • 01 Hauptsender",OK Merseburg-Querfurt
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="OKMagdeburg.de" tvg-logo="https://i.imgur.com/zftoymR.png" group-title="DE • 01 Hauptsender",OK Magdeburg
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de" tvg-logo="https://i.imgur.com/QfzdESc.png" group-title="DE • 01 Hauptsender",OK Merseburg-Querfurt
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="OKRheinMain.de" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title="DE • 01 Hauptsender",OK Rhein-Main
-ERREICHBAR: #EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-logo="https://i.imgur.com/jDmiTOS.png" group-title="DE • 01 Hauptsender",OK Salzwedel
-ERREICHBAR: #EXTINF:-1 tvg-id="OKStendal.de" tvg-logo="https://i.imgur.com/s9wo85l.png" group-title="DE • 01 Hauptsender",OK Stendal
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-logo="https://i.imgur.com/jDmiTOS.png" group-title="DE • 01 Hauptsender",OK Salzwedel
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="OKStendal.de" tvg-logo="https://i.imgur.com/s9wo85l.png" group-title="DE • 01 Hauptsender",OK Stendal
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="OKTrier.de" tvg-logo="https://i.imgur.com/nq32HIs.png" group-title="DE • 01 Hauptsender",OK Trier
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="OKWeinstrasseNeustadt.de" tvg-logo="https://i.imgur.com/bjTajXb.png" group-title="DE • 01 Hauptsender",OK Weinstrasse Neustadt
 ERREICHBAR: #EXTINF:-1 tvg-id="OKWernigerode.de" tvg-logo="https://i.imgur.com/3gQvhSy.png" group-title="DE • 01 Hauptsender",OK Wernigerode
@@ -73,7 +73,7 @@ NACHPRUEFUNG: #EXTINF:-1 tvg-id="ORF1.at" tvg-logo="https://upload.wikimedia.org
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="ORF2.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg" group-title="DE • 01 Hauptsender",ORF 2 (HD)
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="ORF2.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg" group-title="DE • 01 Hauptsender",ORF 2 (SD)
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="P3tv.at" tvg-logo="https://i.imgur.com/qUOFiEe.png" group-title="DE • 01 Hauptsender",P3tv
-ERREICHBAR: #EXTINF:-1 tvg-id="RFH.de" tvg-logo="https://i.imgur.com/8DZa7in.png" group-title="DE • 01 Hauptsender",RFH
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="RFH.de" tvg-logo="https://i.imgur.com/8DZa7in.png" group-title="DE • 01 Hauptsender",RFH
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="RFO.de" tvg-logo="https://i.imgur.com/902BHGL.png" group-title="DE • 01 Hauptsender",RFO
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="SRF.de" tvg-logo="https://i.imgur.com/92XNBmr.png" group-title="DE • 01 Hauptsender",SRF
 ERREICHBAR: #EXTINF:-1 tvg-id="SteiermarkTV.at" tvg-logo="https://i.imgur.com/AJrUPze.png" group-title="DE • 01 Hauptsender",Steiermark TV
@@ -247,7 +247,7 @@ ERREICHBAR: #EXTINF:-1 tvg-id="CanalAlphaJura.ch" tvg-logo="https://i.imgur.com/
 ERREICHBAR: #EXTINF:-1 tvg-id="CanalAlphaNeuchatel.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="DE • 12 Sonstige",Canal Alpha Neuchatel
 ERREICHBAR: #EXTINF:-1 tvg-id="CCPlutoTV.de" tvg-logo="https://i.imgur.com/MjC40At.png" group-title="DE • 12 Sonstige",CC Pluto TV
 ERREICHBAR: #EXTINF:-1 tvg-id="Cheers.de" tvg-logo="https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png" group-title="DE • 12 Sonstige",Cheers (DACH)
-ERREICHBAR: #EXTINF:-1 tvg-id="DieNeueZeitTV.ch" tvg-logo="https://i.imgur.com/K3lvrog.png" group-title="DE • 12 Sonstige",Die Neue Zeit TV
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="DieNeueZeitTV.ch" tvg-logo="https://i.imgur.com/K3lvrog.png" group-title="DE • 12 Sonstige",Die Neue Zeit TV
 ERREICHBAR: #EXTINF:-1 tvg-id="EchtJetztTV.de" tvg-logo="https://i.ibb.co/ccNRGVj/download-10.png" group-title="DE • 12 Sonstige",EchtJetzt TV
 ERREICHBAR: #EXTINF:-1 tvg-id="EWTN.de" tvg-logo="https://i.imgur.com/NXeygNk.png" group-title="DE • 12 Sonstige",EWTN
 ERREICHBAR: #EXTINF:-1 tvg-id="Frasier.de" tvg-logo="https://images.pluto.tv/channels/62cebf042ffc6d0007c4e59a/colorLogoPNG.png" group-title="DE • 12 Sonstige",Frasier
@@ -264,8 +264,8 @@ ERREICHBAR: #EXTINF:-1 tvg-id="Juwelo.it" tvg-logo="https://i.imgur.com/T3r1khc.
 ERREICHBAR: #EXTINF:-1 tvg-id="KTV.at" tvg-logo="https://i.imgur.com/RYbR4Sf.png" group-title="DE • 12 Sonstige",K-TV
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-logo="https://i.imgur.com/CVJWiM0.png" group-title="DE • 12 Sonstige",KaufBei TV
 ERREICHBAR: #EXTINF:-1 tvg-id="KITTV.at" tvg-logo="https://i.imgur.com/5rDo1Za.png" group-title="DE • 12 Sonstige",KIT-TV
-ERREICHBAR: #EXTINF:-1 tvg-id="KulturMD.de" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="DE • 12 Sonstige",KulturMD
-ERREICHBAR: #EXTINF:-1 tvg-id="labor14.de" tvg-logo="https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg" group-title="DE • 12 Sonstige",labor14
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="KulturMD.de" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="DE • 12 Sonstige",KulturMD
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="labor14.de" tvg-logo="https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg" group-title="DE • 12 Sonstige",labor14
 ERREICHBAR: #EXTINF:-1 tvg-id="LightChannel.de" tvg-logo="https://i.imgur.com/0OmBlfE.png" group-title="DE • 12 Sonstige",Light Channel
 ERREICHBAR: #EXTINF:-1 tvg-id="Meteonews.ch" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="DE • 12 Sonstige",Meteonews
 ERREICHBAR: #EXTINF:-1 tvg-id="ORFIII.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png" group-title="DE • 12 Sonstige",ORF III
@@ -281,7 +281,7 @@ ERREICHBAR: #EXTINF:-1 tvg-id="PlutoTVFood.de" tvg-logo="https://i.imgur.com/HTL
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="PlutoTVFranBesteMamaMomente.de" tvg-logo="https://images.pluto.tv/channels/69b968e011fc7b9e27c0d958/colorLogoPNG_1777469414817.png" group-title="DE • 12 Sonstige",Pluto TV Fran: Beste Mama-Momente
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="PlutoTVLaughsinSpanish.de" tvg-logo="https://images.pluto.tv/channels/69a554179a3f3bb488c7d2be/colorLogoPNG_1774964411015.png" group-title="DE • 12 Sonstige",Pluto TV Laughs in Spanish
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="PlutoTVWorstofBundy.de" tvg-logo="https://images.pluto.tv/channels/69b968ca1c36025fd0a3d92d/colorLogoPNG_1777369824096.png" group-title="DE • 12 Sonstige",Pluto TV Worst of Bundy
-ERREICHBAR: #EXTINF:-1 tvg-id="PUNKTumFernsehen.de" tvg-logo="https://i.imgur.com/3yamOmw.png" group-title="DE • 12 Sonstige",PUNKTum Fernsehen
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="PUNKTumFernsehen.de" tvg-logo="https://i.imgur.com/3yamOmw.png" group-title="DE • 12 Sonstige",PUNKTum Fernsehen
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="QS24tv.ch" tvg-logo="https://i.ibb.co/qnBDjtC/Logo-QS24-schwarz-Pfade.png" group-title="DE • 12 Sonstige",QS24.tv
 ERREICHBAR: #EXTINF:-1 tvg-id="QVC.de" tvg-logo="https://i.imgur.com/EybRtsI.png" group-title="DE • 12 Sonstige",QVC
 ERREICHBAR: #EXTINF:-1 tvg-id="QVCStyle.de" tvg-logo="https://i.imgur.com/DwdkHGj.png" group-title="DE • 12 Sonstige",QVC Style
@@ -293,11 +293,11 @@ ERREICHBAR: #EXTINF:-1 tvg-id="RaiSudtirol.it" tvg-logo="https://i.imgur.com/Z3n
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="DE • 12 Sonstige",Rakuten TV Family Movies (Austria)
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="DE • 12 Sonstige",Rakuten TV Family Movies (Germany)
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="DE • 12 Sonstige",Rakuten TV Family Movies (Switzerland)
-ERREICHBAR: #EXTINF:-1 tvg-id="RAN1.de" tvg-logo="https://i.imgur.com/zRg2BEa.png" group-title="DE • 12 Sonstige",RAN1
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="RAN1.de" tvg-logo="https://i.imgur.com/zRg2BEa.png" group-title="DE • 12 Sonstige",RAN1
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="rbbFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/960px-Rbb_Fernsehen_Logo_2017.08.svg.png" group-title="DE • 12 Sonstige",rbb Fernsehen (Berlin)
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="rbbFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/960px-Rbb_Fernsehen_Logo_2017.08.svg.png" group-title="DE • 12 Sonstige",rbb Fernsehen (Brandenburg)
 ERREICHBAR: #EXTINF:-1 tvg-id="rbbFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/960px-Rbb_Fernsehen_Logo_2017.08.svg.png" group-title="DE • 12 Sonstige",rbb Fernsehen (SD)
-ERREICHBAR: #EXTINF:-1 tvg-id="RBW.de" tvg-logo="https://i.imgur.com/A0UKdix.png" group-title="DE • 12 Sonstige",RBW
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="RBW.de" tvg-logo="https://i.imgur.com/A0UKdix.png" group-title="DE • 12 Sonstige",RBW
 ERREICHBAR: #EXTINF:-1 tvg-id="RegioTVBodensee.de" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="DE • 12 Sonstige",Regio TV Bodensee
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="RegioTVSchwaben.de" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="DE • 12 Sonstige",Regio TV Schwaben
 ERREICHBAR: #EXTINF:-1 tvg-id="RegioTVStuttgart.de" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="DE • 12 Sonstige",Regio TV Stuttgart
@@ -306,8 +306,8 @@ NACHPRUEFUNG: #EXTINF:-1 tvg-id="RNF.de" tvg-logo="https://i.imgur.com/CRk9usN.p
 ERREICHBAR: #EXTINF:-1 tvg-id="RockAntenne.de" tvg-logo="https://i.imgur.com/nvFXRjH.png" group-title="DE • 12 Sonstige",Rock Antenne
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="RocklandTV.de" tvg-logo="https://i.imgur.com/6ve1FTN.png" group-title="DE • 12 Sonstige",Rockland TV
 ERREICHBAR: #EXTINF:-1 tvg-id="RTV.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png" group-title="DE • 12 Sonstige",RTV
-ERREICHBAR: #EXTINF:-1 tvg-id="SaarlandFernsehen1.de" tvg-logo="https://i.imgur.com/OodehFV.png" group-title="DE • 12 Sonstige",Saarland Fernsehen 1
-ERREICHBAR: #EXTINF:-1 tvg-id="SaarlandFernsehen2.de" tvg-logo="https://i.imgur.com/Yv7j4ia.png" group-title="DE • 12 Sonstige",Saarland Fernsehen 2
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="SaarlandFernsehen1.de" tvg-logo="https://i.imgur.com/OodehFV.png" group-title="DE • 12 Sonstige",Saarland Fernsehen 1
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="SaarlandFernsehen2.de" tvg-logo="https://i.imgur.com/Yv7j4ia.png" group-title="DE • 12 Sonstige",Saarland Fernsehen 2
 ERREICHBAR: #EXTINF:-1 tvg-id="SabrinaTotalverhext.de" tvg-logo="https://images.pluto.tv/channels/622f40c901d4b70007ad7609/colorLogoPNG.png" group-title="DE • 12 Sonstige",Sabrina: Total verhext!
 ERREICHBAR: #EXTINF:-1 tvg-id="SachsenEins.de" tvg-logo="https://i.imgur.com/2EXNdd8.png" group-title="DE • 12 Sonstige",Sachsen Eins
 ERREICHBAR: #EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de" tvg-logo="https://i.imgur.com/4SEAbVf.png" group-title="DE • 12 Sonstige",Sachsen Fernsehen Chemnitz
@@ -316,12 +316,12 @@ ERREICHBAR: #EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de" tvg-logo="https://i.i
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="SalveTV.de" tvg-logo="https://i.imgur.com/GhKjHMG.png" group-title="DE • 12 Sonstige",Salve TV
 ERREICHBAR: #EXTINF:-1 tvg-id="SchladmingDachsteinTV.at" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" group-title="DE • 12 Sonstige",Schladming-Dachstein TV
 ERREICHBAR: #EXTINF:-1 tvg-id="Seenluft24.de" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" group-title="DE • 12 Sonstige",Seenluft24
-ERREICHBAR: #EXTINF:-1 tvg-id="SenderNeuJerusalem.de" tvg-logo="" group-title="DE • 12 Sonstige",Sender Neu Jerusalem
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="SenderNeuJerusalem.de" tvg-logo="" group-title="DE • 12 Sonstige",Sender Neu Jerusalem
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="ShivaLiveTV.ch" tvg-logo="https://i.imgur.com/F2LUpAB.jpg" group-title="DE • 12 Sonstige",Shiva Live TV
 ERREICHBAR: #EXTINF:-1 tvg-id="sixx.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/960px-Sixx_Logo.svg.png" group-title="DE • 12 Sonstige",sixx
 ERREICHBAR: #EXTINF:-1 tvg-id="SonnenklarTV.de" tvg-logo="https://i.imgur.com/g4QeXwF.png" group-title="DE • 12 Sonstige",Sonnenklar TV
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="SonusFM.de" tvg-logo="https://i.imgur.com/h29rUcG.png" group-title="DE • 12 Sonstige",Sonus FM
-ERREICHBAR: #EXTINF:-1 tvg-id="SophiaTV.de" tvg-logo="https://i.imgur.com/1hNgHbB.png" group-title="DE • 12 Sonstige",Sophia TV
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="SophiaTV.de" tvg-logo="https://i.imgur.com/1hNgHbB.png" group-title="DE • 12 Sonstige",Sophia TV
 ERREICHBAR: #EXTINF:-1 tvg-id="SRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/960px-SR_Fernsehen_Logo_2023.svg.png" group-title="DE • 12 Sonstige",SR Fernsehen
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="Studio47.de" tvg-logo="https://i.imgur.com/xCiU1TB.png" group-title="DE • 12 Sonstige",Studio 47
 ERREICHBAR: #EXTINF:-1 tvg-id="SWR3VisualRadio.de" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" group-title="DE • 12 Sonstige",SWR 3 Visual Radio
@@ -442,7 +442,7 @@ ERREICHBAR: #EXTINF:-1 tvg-id="Channel8International.ru" tvg-logo="https://i.img
 ERREICHBAR: #EXTINF:-1 tvg-id="Channel8Krasnoyarsk.ru" tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="RU • 01 Основные",Channel 8 Krasnoyarsk
 ERREICHBAR: #EXTINF:-1 tvg-id="Channel8Novosibirsk.ru" tvg-logo="https://i.imgur.com/eHGETvU.png" group-title="RU • 01 Основные",Channel 8 Novosibirsk
 ERREICHBAR: #EXTINF:-1 tvg-id="Channel16.ru" tvg-logo="https://i.imgur.com/7tNDKHe.png" group-title="RU • 01 Основные",Channel-16
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenTV.ru" tvg-logo="https://i.imgur.com/X9kACKi.png" group-title="RU • 01 Основные",City Eden TV
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenTV.ru" tvg-logo="https://i.imgur.com/X9kACKi.png" group-title="RU • 01 Основные",City Eden TV
 ERREICHBAR: #EXTINF:-1 tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="RU • 01 Основные",Enisey
 ERREICHBAR: #EXTINF:-1 tvg-id="Eurasia.ru" tvg-logo="https://i.imgur.com/4JUHIVS.png" group-title="RU • 01 Основные",Eurasia
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="Gribuvisuzinat.lv" tvg-logo="" group-title="RU • 01 Основные",Gribu visu zinat
@@ -470,7 +470,7 @@ ERREICHBAR: #EXTINF:-1 tvg-id="NovgorOblTV.ru" tvg-logo="https://i.imgur.com/2Js
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="NovyVek.ru" tvg-logo="https://i.imgur.com/8aYYi3r.png" group-title="RU • 01 Основные",Novy Vek
 ERREICHBAR: #EXTINF:-1 tvg-id="NTK21.ru" tvg-logo="https://i.imgur.com/W9s1flH.png" group-title="RU • 01 Основные",NTK 21
 ERREICHBAR: #EXTINF:-1 tvg-id="NTM.ru" tvg-logo="https://i.imgur.com/AH50pGT.png" group-title="RU • 01 Основные",NTM
-ERREICHBAR: #EXTINF:-1 tvg-id="NTS.ru" tvg-logo="https://i.imgur.com/skkDR7q.png" group-title="RU • 01 Основные",NTS
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="NTS.ru" tvg-logo="https://i.imgur.com/skkDR7q.png" group-title="RU • 01 Основные",NTS
 ERREICHBAR: #EXTINF:-1 tvg-id="NTVVitrina.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1280px-NTV_logo_2003.svg.png" group-title="RU • 01 Основные",NTV Vitrina
 ERREICHBAR: #EXTINF:-1 tvg-id="OsetiyaIryston.ru" tvg-logo="https://i.imgur.com/N0Zn4zU.png" group-title="RU • 01 Основные",Osetiya-Iryston
 ERREICHBAR: #EXTINF:-1 tvg-id="OSN.ru" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" group-title="RU • 01 Основные",OSN
@@ -602,15 +602,15 @@ NACHPRUEFUNG: #EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="https://i.imgur.com
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="Blokbaster.ru" tvg-logo="https://i.imgur.com/KcOi4Os.png" group-title="RU • 03 Фильмы",Blokbaster
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="Bolt.ru" tvg-logo="https://i.imgur.com/YdIHXOR.png" group-title="RU • 03 Фильмы",Bolt
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="Cinema.ru" tvg-logo="https://i.imgur.com/b5e9qUA.png" group-title="RU • 03 Фильмы",Cinema
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenKinoAction.ru" tvg-logo="https://i.imgur.com/uuzuvD0.png" group-title="RU • 03 Фильмы",City Eden KinoAction
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenKinoArt.ru" tvg-logo="https://i.imgur.com/67CWCtz.png" group-title="RU • 03 Фильмы",City Eden KinoArt
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenKinoAsia.ru" tvg-logo="https://i.imgur.com/gaket4B.png" group-title="RU • 03 Фильмы",City Eden KinoAsia
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenKinoDetektiv.ru" tvg-logo="https://i.imgur.com/9rKHwBV.png" group-title="RU • 03 Фильмы",City Eden KinoDetektiv
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenKinoDrama.ru" tvg-logo="https://i.imgur.com/29ddffh.png" group-title="RU • 03 Фильмы",City Eden KinoDrama
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenKinoFantastika.ru" tvg-logo="https://i.imgur.com/I64FeIO.png" group-title="RU • 03 Фильмы",City Eden KinoFantastika
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenKinoKlassika.ru" tvg-logo="https://i.imgur.com/0qGCS1S.png" group-title="RU • 03 Фильмы",City Eden KinoKlassika
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenKinoKomediya.ru" tvg-logo="https://i.imgur.com/Aga2XVA.png" group-title="RU • 03 Фильмы",City Eden KinoKomediya
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenKinoMistika.ru" tvg-logo="https://i.imgur.com/s1Pid0K.png" group-title="RU • 03 Фильмы",City Eden KinoMistika
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenKinoAction.ru" tvg-logo="https://i.imgur.com/uuzuvD0.png" group-title="RU • 03 Фильмы",City Eden KinoAction
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenKinoArt.ru" tvg-logo="https://i.imgur.com/67CWCtz.png" group-title="RU • 03 Фильмы",City Eden KinoArt
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenKinoAsia.ru" tvg-logo="https://i.imgur.com/gaket4B.png" group-title="RU • 03 Фильмы",City Eden KinoAsia
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenKinoDetektiv.ru" tvg-logo="https://i.imgur.com/9rKHwBV.png" group-title="RU • 03 Фильмы",City Eden KinoDetektiv
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenKinoDrama.ru" tvg-logo="https://i.imgur.com/29ddffh.png" group-title="RU • 03 Фильмы",City Eden KinoDrama
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenKinoFantastika.ru" tvg-logo="https://i.imgur.com/I64FeIO.png" group-title="RU • 03 Фильмы",City Eden KinoFantastika
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenKinoKlassika.ru" tvg-logo="https://i.imgur.com/0qGCS1S.png" group-title="RU • 03 Фильмы",City Eden KinoKlassika
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenKinoKomediya.ru" tvg-logo="https://i.imgur.com/Aga2XVA.png" group-title="RU • 03 Фильмы",City Eden KinoKomediya
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenKinoMistika.ru" tvg-logo="https://i.imgur.com/s1Pid0K.png" group-title="RU • 03 Фильмы",City Eden KinoMistika
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenKinoSemya.ru" tvg-logo="https://i.imgur.com/YoWOZMx.png" group-title="RU • 03 Фильмы",City Eden KinoSemya
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="Detskoekino.ru" tvg-logo="https://i.imgur.com/dJqFRhQ.png" group-title="RU • 03 Фильмы",Detskoe kino
 ERREICHBAR: #EXTINF:-1 tvg-id="Domkino.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="RU • 03 Фильмы",Dom kino
@@ -764,7 +764,7 @@ ERREICHBAR: #EXTINF:-1 group-title="RU • 03 Фильмы", 365 дней (2)
 ERREICHBAR: #EXTINF:-1 tvg-id="5minuttishiny.ru" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/5minut_live.jpg" group-title="RU • 04 Сериалы",5 minut tishiny
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="A2.ru" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="RU • 04 Сериалы",A2
 ERREICHBAR: #EXTINF:-1 tvg-id="Balabol.ru" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="RU • 04 Сериалы",Balabol
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenTeleNovella.ru" tvg-logo="https://i.imgur.com/mT5liTh.png" group-title="RU • 04 Сериалы",City Eden TeleNovella
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenTeleNovella.ru" tvg-logo="https://i.imgur.com/mT5liTh.png" group-title="RU • 04 Сериалы",City Eden TeleNovella
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="MirSeriala.ru" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="RU • 04 Сериалы",Mir Seriala
 ERREICHBAR: #EXTINF:-1 tvg-id="Nevskiy.ru" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" group-title="RU • 04 Сериалы",Nevskiy
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="NTVSeries.ru" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="RU • 04 Сериалы",NTV Series
@@ -975,10 +975,10 @@ NACHPRUEFUNG: #EXTINF:-1 tvg-id="BRIDGE.ru" tvg-logo="https://i.imgur.com/qYObfr
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="BRIDGEDeluxe.ru" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="RU • 08 Музыка",BRIDGE Deluxe (HD)
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="BRIDGEDeluxe.ru" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="RU • 08 Музыка",BRIDGE Deluxe (SD)
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="RU • 08 Музыка",BRIDGE Hits
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenBirmaPlay.ru" tvg-logo="https://i.imgur.com/38Q5L5W.png" group-title="RU • 08 Музыка",City Eden Birma Play
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenClassicMusic.ru" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="RU • 08 Музыка",City Eden Classic Music
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenPlay.ru" tvg-logo="https://i.imgur.com/ozEqob9.png" group-title="RU • 08 Музыка",City Eden Play
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenSirtakiTV.ru" tvg-logo="https://i.imgur.com/V3MTfyc.png" group-title="RU • 08 Музыка",City Eden Sirtaki TV
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenBirmaPlay.ru" tvg-logo="https://i.imgur.com/38Q5L5W.png" group-title="RU • 08 Музыка",City Eden Birma Play
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenClassicMusic.ru" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="RU • 08 Музыка",City Eden Classic Music
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenPlay.ru" tvg-logo="https://i.imgur.com/ozEqob9.png" group-title="RU • 08 Музыка",City Eden Play
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenSirtakiTV.ru" tvg-logo="https://i.imgur.com/V3MTfyc.png" group-title="RU • 08 Музыка",City Eden Sirtaki TV
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="ClassicMusic.ru" tvg-logo="https://i.imgur.com/TpXs1qA.png" group-title="RU • 08 Музыка",Classic Music
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="DTRMusic1.ru" tvg-logo="https://i.imgur.com/3picWDA.png" group-title="RU • 08 Музыка",DTR Music 1
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-logo="https://i.imgur.com/GLc4qrc.png" group-title="RU • 08 Музыка",Europa Plus TV
@@ -1005,7 +1005,7 @@ ERREICHBAR: #EXTINF:-1 group-title="RU • 08 Музыка" tvg-id="ru-tv" tvg-l
 NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 08 Музыка" tvg-id="ru-tv" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png", RU.TV РУ.ТВ (3)
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="scifi.ru" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="RU • 09 Документальные",.sci-fi
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png" group-title="RU • 09 Документальные",365 days TV
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenKinoDok.ru" tvg-logo="https://i.imgur.com/itRbMX3.png" group-title="RU • 09 Документальные",City Eden KinoDok
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenKinoDok.ru" tvg-logo="https://i.imgur.com/itRbMX3.png" group-title="RU • 09 Документальные",City Eden KinoDok
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="DaVinci.ru" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="RU • 09 Документальные",Da Vinci
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="Doctor.ru" tvg-logo="https://i.imgur.com/VNirxxn.png" group-title="RU • 09 Документальные",Doctor
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="Istoriya.ru" tvg-logo="https://i.imgur.com/eEjPail.png" group-title="RU • 09 Документальные",Istoriya
@@ -1214,7 +1214,7 @@ ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Риф�
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Волга | Нижний Новгород
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Волга 24 | Нижний Новгород
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Волга 24 (2) | Нижний Новгород
-NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", Нижний новгород 24 | Нижний Новгород
+ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Нижний новгород 24 | Нижний Новгород
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Волгоград 1 | Волгоградская область
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Волгоград 24 | Волгоградская область
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Первый Волгоградский | Волгоградская область
@@ -1352,7 +1352,7 @@ NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", Ме�
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Новое время | ХМАО-Югра
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Юганск | ХМАО-Югра
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Тивиком | Бурятия
-ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Тивиком (2) | Бурятия
+NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", Тивиком (2) | Бурятия
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", АТВ | Бурятия
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Аригус | Бурятия
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Буряад | Бурятия
@@ -1381,7 +1381,7 @@ ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", ТНВ 
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Татарстан 24
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", TMTV | Татарстан
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", ЮТВ | Чувашия
-NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", ЮТВ (2) | Чувашия
+ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", ЮТВ (2) | Чувашия
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Чаваш ЕН | Чувашия
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Юрган | Коми
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Ямал 1 | Ямало-Ненецкий АО
@@ -1395,15 +1395,15 @@ ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Qazaqst
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Qazaqstan (2) | Казахстан
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", JTV | Казахстан
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Хабар 24 | Казахстан
-NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", Новое | Казахстан
+ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Новое | Казахстан
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Рика | Казахстан
 NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", QazSport | Казахстан
 NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", QazSport (2) | Казахстан
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Грозный | Чеченская республика
 ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", ОшТВ | Кыргызстан
 NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", Солнечный | Узбекистан
-NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", Аист | Орехово-Зуево
-NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 10 Региональные", Кварц | Подольск
+ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Аист | Орехово-Зуево
+ERREICHBAR: #EXTINF:-1 group-title="RU • 10 Региональные", Кварц | Подольск
 ERREICHBAR: #EXTINF:-1 group-title="RU • 11 Авто", Авто Плюс
 ERREICHBAR: #EXTINF:-1 group-title="RU • 11 Авто", Авто 24
 ERREICHBAR: #EXTINF:-1 group-title="RU • 11 Авто", Авто 24 (2)
@@ -1450,7 +1450,7 @@ ERREICHBAR: #EXTINF:-1 group-title="RU • 11 Кинозалы Catcast", HGTN
 NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 11 Кинозалы Kinowalk", Disney XD
 ERREICHBAR: #EXTINF:-1 group-title="RU • 11 Кинозалы Kinowalk", JTX
 ERREICHBAR: #EXTINF:-1 group-title="RU • 11 Кинозалы Kinowalk", FoxKids
-ERREICHBAR: #EXTINF:-1 group-title="RU • 11 Кинозалы Kinowalk", Мультфильмы VHS
+NACHPRUEFUNG: #EXTINF:-1 group-title="RU • 11 Кинозалы Kinowalk", Мультфильмы VHS
 ERREICHBAR: #EXTINF:-1 group-title="RU • 11 Кинозалы Kinowalk", grislytoe
 ERREICHBAR: #EXTINF:-1 group-title="RU • 11 Кинозалы Kinowalk", ВсеТВ
 ERREICHBAR: #EXTINF:-1 group-title="RU • 11 Кинозалы Kinowalk", Kinowalk
@@ -1584,9 +1584,9 @@ ERREICHBAR: #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="https://i.imgur.com/vruuPKF
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="BigPlanet.ru" tvg-logo="https://i.imgur.com/wyuqWTR.png" group-title="RU • 12 Другие",Big Planet
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="RU • 12 Другие",BRIDGE Classic
 ERREICHBAR: #EXTINF:-1 tvg-id="BST.ru" tvg-logo="https://i.imgur.com/IDotHmQ.png" group-title="RU • 12 Другие",BST
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenAutoGid.ru" tvg-logo="https://i.imgur.com/qpe8L27.png" group-title="RU • 12 Другие",City Eden AutoGid
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenMedZdrav.ru" tvg-logo="https://i.imgur.com/BM4E0Kr.png" group-title="RU • 12 Другие",City Eden MedZdrav
-ERREICHBAR: #EXTINF:-1 tvg-id="CityEdenReceptyGurmana.ru" tvg-logo="https://i.imgur.com/wR0pvRc.png" group-title="RU • 12 Другие",City Eden Recepty Gurmana
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenAutoGid.ru" tvg-logo="https://i.imgur.com/qpe8L27.png" group-title="RU • 12 Другие",City Eden AutoGid
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenMedZdrav.ru" tvg-logo="https://i.imgur.com/BM4E0Kr.png" group-title="RU • 12 Другие",City Eden MedZdrav
+NACHPRUEFUNG: #EXTINF:-1 tvg-id="CityEdenReceptyGurmana.ru" tvg-logo="https://i.imgur.com/wR0pvRc.png" group-title="RU • 12 Другие",City Eden Recepty Gurmana
 ERREICHBAR: #EXTINF:-1 tvg-id="Dagestan.ru" tvg-logo="https://i.imgur.com/jumkRvc.png" group-title="RU • 12 Другие",Dagestan
 ERREICHBAR: #EXTINF:-1 tvg-id="DenPobedy.ru" tvg-logo="https://i.imgur.com/gY3XkoO.png" group-title="RU • 12 Другие",Den Pobedy
 NACHPRUEFUNG: #EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-logo="https://i.imgur.com/EOue13e.png" group-title="RU • 12 Другие",Dikaya okhota
