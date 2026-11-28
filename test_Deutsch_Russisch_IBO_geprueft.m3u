@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 tvg-id="aniworld.to" tvg-logo="https://aniworld.to/public/img/cover/dragonball-stream-cover-IgylIJAWUx0ojbATV0KLnX18HGGaz5xz_220x330.jpg" group-title="DE • 01 Hauptsender",Dragonball Test
-https://ugc-cdn-caching-n3736dxdqy0dv2dwuz.cloudwindow-route.com/engine/hls2-c/01/00886/ogmzhysqsk1q_,n,.urlset/master.m3u8?t=D3LXRz46kugP5Rx9GjcPm-dbDE7l1q5mW4qapqdxu6c&s=1795872068&e=14400&f=45184028&node=mKx5F4aJrjMeBy+aCKnGlQnfiFquVhUye8QV+hsvST0=&i=92.208&sp=2500&asn=3209&q=n&rq=bATXeJXKDORtlzHUOA82Edb3bUXBfueB42uinuX1
+https://ugc-cdn-caching-n3qhprfsocodpaz7yp.cloudwindow-route.com/engine/hls2/01/00540/z054k8pyzh23_,n,.urlset/master.m3u8?t=aQEoITfLfyeF7RzknC5RuVq0d6TvUOtZ5YnsjslxSuk&s=1795875556&e=14400&f=2704643&node=ESji19lYm0OPW1t925Z+MDkX+Xj6OyD+/abM2KdqKrg=&i=84.138&sp=2500&asn=3320&q=n&rq=XktGwuu95KqVjoXEUbKfXjCzAwvH8IKTxjPcr4ny
 #EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png" group-title="DE • 01 Hauptsender",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="DE • 01 Hauptsender",ZDF
